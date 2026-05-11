@@ -51,9 +51,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-ne99zaddh-mashowmagics-projects.vercel.app/api?username=mashowmagic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats-kappa-five-29.vercel.app/api?username=mashowmagic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats-ne99zaddh-mashowmagics-projects.vercel.app/api/top-langs/?username=mashowmagic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats-kappa-five-29.vercel.app/api/top-langs/?username=mashowmagic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/>
 
