@@ -51,13 +51,13 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MaShowMagic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mashowmagic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaShowMagic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashowmagic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaShowMagic&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=mashowmagic&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MaShowMagic&color=5865F2&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=mashowmagic&color=5865F2&style=flat-square&label=Profile+Views)
 
 *Thanks for visiting! / ขอบคุณที่แวะมาครับ 🙏*
 
