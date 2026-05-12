@@ -6,7 +6,7 @@
 
 **EN:** Developer behind [MaShowBot](http://mashowbot.play-network.io:9000/) — a feature-rich Discord music bot built with TypeScript, Discord.js & Lavalink.
 
-**TH:** ผู้พัฒนา [MaShowBot](http://mashowbot.play-network.io:9000/) — Discord Music Bot ที่ใช้ TypeScript, Discord.js และ Lavalink ที่มีฟีเจอร์ครบครัน
+**TH:** ผู้พัฒนา [MaShowBot](http://www.mashow.online) — Discord Music Bot ที่ใช้ TypeScript, Discord.js และ Lavalink ที่มีฟีเจอร์ครบครัน
 
 <br/>
 
