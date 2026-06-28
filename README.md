@@ -11,7 +11,7 @@
 <br/>
 
 [![Discord](https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/erBBjc3dg2)
-[![Website](https://img.shields.io/badge/MaShowBot%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](http://mashowbot.play-network.io:9000/)
+[![Website](https://img.shields.io/badge/MaShowBot%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.mashow.online)
 [![Ko-Fi](https://img.shields.io/badge/Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mashowmagic)
 
 </div>
@@ -32,7 +32,7 @@
 
 | Project | Stack | What it is |
 |---|---|---|
-| 🤖 **[MaShowBot](http://mashowbot.play-network.io:9000/)** | TypeScript · Discord.js · Lavalink · Fastify | Feature-rich Discord music bot — Spotify, queue system, REST API, premium system |
+| 🤖 **[MaShowBot](http://www.mashow.online)** | TypeScript · Discord.js · Lavalink · Fastify | Feature-rich Discord music bot — Spotify, queue system, REST API, premium system |
 | 🖥️ **MaShowBot Website** | React · Vite · TailwindCSS | Web dashboard for the bot — live player control, stats, shop & profile cards |
 | 🌐 **[mashowmagic.com](https://mashowmagic.com)** | Web | Personal site & hub for all my projects |
 | 🕹️ **[Arcade](https://mashowmagic.com/arcade)** | Web · Discord OAuth | Browser games hub with Discord login & cloud save |
@@ -99,7 +99,7 @@
 | 🌐 REST API | Fastify-powered web API |
 | 💸 Ko-Fi | Supporter perks & premium features |
 
-[![Invite MaShowBot](https://img.shields.io/badge/Invite%20MaShowBot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://mashowbot.play-network.io:9000/)
+[![Invite MaShowBot](https://img.shields.io/badge/Invite%20MaShowBot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://www.mashow.online)
 [![Join Support Server](https://img.shields.io/badge/Join%20Support%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/erBBjc3dg2)
 [![Support on Ko-fi](https://img.shields.io/badge/Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mashowmagic)
 
