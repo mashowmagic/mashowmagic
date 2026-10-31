@@ -20,9 +20,9 @@
 
 ## 🎵 About Me / เกี่ยวกับฉัน
 
-**EN:** I'm a Thai developer who builds across the stack — Discord bots, backend APIs, web dashboards, and browser games. **MaShowBot** is my flagship project, but I also build websites and an in-house arcade with Discord auth & cloud saves.
+**EN:** I'm a Thai developer who likes building things people actually use. It started with a Discord music bot, **MaShowBot**, and grew into the web dashboard around it, a browser arcade with cloud saves, and small tools for the games I play. I enjoy owning a project end to end: the API, the site, and the little details in between.
 
-**TH:** นักพัฒนาชาวไทยที่ทำงานครบทั้งสาย — ตั้งแต่ Discord Bot, Backend API, เว็บแดชบอร์ด ไปจนถึงเกมบนเบราว์เซอร์ โปรเจกต์เรือธงคือ **MaShowBot** แต่ก็ทำเว็บไซต์และระบบ Arcade ที่มี Discord Login + เซฟคลาวด์เองด้วย
+**TH:** ผมเป็นนักพัฒนาชาวไทย ชอบทำของที่คนใช้งานได้จริง เริ่มจากบอทเพลง Discord อย่าง **MaShowBot** แล้วขยายมาเป็นเว็บแดชบอร์ด เกมบนเบราว์เซอร์ที่เซฟคลาวด์ได้ และเครื่องมือเล็ก ๆ สำหรับเกมที่เล่นอยู่ ชอบดูแลโปรเจกต์ตั้งแต่ API ไปจนถึงหน้าเว็บและรายละเอียดจุกจิกด้วยตัวเอง
 
 ---
 
@@ -36,6 +36,7 @@
 | 🖥️ **MaShowBot Website** | React · Vite · TailwindCSS | Web dashboard for the bot — live player control, stats, shop & profile cards |
 | 🌐 **[mashowmagic.com](https://mashowmagic.com)** | Web | Personal site & hub for all my projects |
 | 🕹️ **[Arcade](https://mashowmagic.com/arcade)** | Web · Discord OAuth | Browser games hub with Discord login & cloud save |
+| 📊 **Gamer Profile** | Next.js · React · TypeScript · TailwindCSS | Player stats for LoL, TFT, Dota 2, Valorant, Overwatch 2 and Apex — rank, win rate and recent matches in Thai and English |
 
 </div>
 
@@ -57,6 +58,7 @@
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
 ### 🖥️ Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
