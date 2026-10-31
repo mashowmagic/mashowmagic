@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5865F2&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+MaShowMagic+%F0%9F%8E%B5;Discord+Bot+Developer;Full-Stack+Web+Developer;Game+%26+Arcade+Builder;TypeScript+%26+Node.js+Enthusiast" alt="Typing SVG" />
+<img src="assets/typing.svg" width="700" alt="Hi there, I'm MaShowMagic — Discord Bot Developer, Full-Stack Web Developer, Game &amp; Arcade Builder, TypeScript &amp; Node.js Enthusiast" />
 
 <br/>
 
